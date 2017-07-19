@@ -9,6 +9,7 @@ namespace ProfessionalProfile.Console
     {
         public static void Main(string[] args)
         {
+            System.Console.WriteLine("Welcome to Augustin's Professional Website");
         }
     }
 }
